@@ -17,7 +17,7 @@ const Intro = () => {
       FullStack (MERN)  developer
       
       </span>
-      <p className='introPara'>I'm a skill Full-Stack Developer specalizing in MERN stack  <br /> with 2+ year experience with Front-end and Back-end. <br /> Currently i'm focused on building an online freelance experience to gain more expertise. </p>
+      <p className='introPara'>I'm a skilled Full-Stack Developer specalizing in MERN stack  <br /> with 2+ years experience with Front-end and Back-end. <br /> Currently i'm focused on building an online freelance experience to gain more expertise. </p>
       
       <Link> <button className='btn'onClick={() =>{
         document.getElementById('contact').scrollIntoView({behavior: 'smooth'})
